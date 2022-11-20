@@ -1,1 +1,2 @@
-# memoryMobile
+# MemoryGame
+Memory Game
